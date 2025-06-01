@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Edwin Machado</h1>
-<h3 align="center">Computer Science student | AI enthusiast | Open Source lover</h3>
+<h1 align="center">Hola 👋, soy Edwin Machado</h1>
+<h3 align="center">Estudiante de Ciencias de la Computación | Entusiasta de IA | Apasionado del Open Source</h3>
 
 ---
 
-- 🎓 CS Student, 5th semester Universidad de Carabobo
-- 💡 Data Science & AI, Samsung Innovation Campus
-- 💻 Passionate about C++, Python, Kotlin & Flutter
-- 🐧 Linux enthusiast (Debian 12)
-- 🚀 Always learning and building cool things
+- 🎓 Estudiante de CS, 5to semestre en la Universidad de Carabobo
+- 💡 Ciencia de Datos e IA, Samsung Innovation Campus
+- 💻 Apasionado por C++, Python, Kotlin y Flutter
+- 🐧 Entusiasta de Linux (Debian 12)
+- 🚀 Siempre aprendiendo y construyendo cosas geniales
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Lenguajes y Herramientas
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,9 +21,9 @@
 
 ---
 
-### 📌 Featured Project: Setup SSH + Git
+### 📌 Proyecto Destacado: Setup SSH + Git
 
-[![Repo](https://img.shields.io/badge/GitHub-Setup__SSH__GIT-181717?style=for-the-badge&logo=github)](https://github.com/Edfermachado/Setup_SSH_GIT)
+[![Repositorio](https://img.shields.io/badge/GitHub-Setup__SSH__GIT-181717?style=for-the-badge&logo=github)](https://github.com/Edfermachado/Setup_SSH_GIT)
 
 🔐 **Setup_SSH_GIT** es una guía práctica para configurar una clave SSH y vincularla con GitHub. Ideal para desarrolladores que trabajan en Windows y desean automatizar su flujo de trabajo con Git.
 
@@ -33,13 +33,11 @@
 
 📂 Tecnologías relacionadas: `bash`, `Git`, `SSH`, `CLI`
 
-> 👉 Útil para desarrolladores que quieren evitar contraseñas al hacer push/pull en sus repos.
-
-
+> 👉 Útil para desarrolladores que quieren evitar ingresar contraseñas al hacer push/pull en sus repositorios.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Edfermachado&show_icons=true&theme=radical" height="150"/>
@@ -48,7 +46,8 @@
 
 ---
 
-### 📫 Contact Me
+### 📫 Contáctame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-machado)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edfer_code@proton.me)
+[![Correo](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edfer_code@proton.me)
+

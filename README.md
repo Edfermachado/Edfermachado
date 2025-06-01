@@ -3,7 +3,7 @@
 
 ---
 
-- 🎓 CS Student, 5th semester @ Universidad [Nombre opcional]
+- 🎓 CS Student, 5th semester Universidad de Carabobo
 - 💡 Data Science & AI, Samsung Innovation Campus
 - 💻 Passionate about C++, Python, Kotlin & Flutter
 - 🐧 Linux enthusiast (Debian 12)

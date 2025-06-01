@@ -21,6 +21,25 @@
 
 ---
 
+### 📌 Featured Project: Setup SSH + Git
+
+[![Repo](https://img.shields.io/badge/GitHub-Setup__SSH__GIT-181717?style=for-the-badge&logo=github)](https://github.com/Edfermachado/Setup_SSH_GIT)
+
+🔐 **Setup_SSH_GIT** es una guía práctica para configurar una clave SSH y vincularla con GitHub. Ideal para desarrolladores que trabajan en Linux o desean automatizar su flujo de trabajo con Git.
+
+**Características:**
+- Paso a paso para generar y registrar claves SSH
+- Integración rápida con GitHub
+- Compatible con sistemas basados en Unix (como Debian)
+
+📂 Tecnologías relacionadas: `Linux`, `Git`, `SSH`, `CLI`
+
+> 👉 Útil para desarrolladores que quieren evitar contraseñas al hacer push/pull en sus repos.
+
+
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">

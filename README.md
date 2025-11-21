@@ -3,9 +3,9 @@
 
 ---
 
-- 🎓 Estudiante de CS, 5to semestre en la Universidad de Carabobo
+- 🎓 Estudiante de CS, 6to semestre en la Universidad de Carabobo
 - 💡 Ciencia de Datos e IA, Samsung Innovation Campus
-- 💻 Apasionado por C++, Python, Kotlin y Flutter
+- 💻 Apasionado por C++, Python, Laravel, Kotlin y Flutter
 - 🐧 Entusiasta de Linux (Debian 12)
 - 🚀 Siempre aprendiendo y construyendo cosas geniales
 

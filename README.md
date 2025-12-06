@@ -42,6 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Edfermachado&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edfermachado&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Edfermachado&theme=radical&layout=compact" height="200"/>
 </p>
 
 ---

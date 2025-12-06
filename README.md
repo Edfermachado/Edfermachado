@@ -1,15 +1,13 @@
 <h1 align="center">Hola 👋, soy Edwin Machado</h1>
-<h3 align="center">Estudiante de Ciencias de la Computación | Entusiasta de la IA | Apasionado del Open Source</h3>
+<h3 align="center">Estudiante de Ciencias de la Computación | Entusiasta de IA | Apasionado del Open Source</h3>
 
 ---
 
-### 🌟 Sobre mí
-
-- 🎓 Estudiante de CS, 6to semestre en la Universidad de Carabobo  
-- 💡 Ciencia de Datos e IA — Samsung Innovation Campus  
-- 💻 Apasionado por C++, Python, Laravel, Kotlin y Flutter  
-- 🐧 Usuario de Linux (Debian 12)  
-- 🚀 Siempre aprendiendo y construyendo cosas geniales  
+- 🎓 Estudiante de CS, 6to semestre en la Universidad de Carabobo
+- 💡 Ciencia de Datos e IA, Samsung Innovation Campus
+- 💻 Apasionado por C++, Python, Laravel, Kotlin y Flutter
+- 🐧 Entusiasta de Linux (Debian 12)
+- 🚀 Siempre aprendiendo y construyendo cosas geniales
 
 ---
 
@@ -23,33 +21,19 @@
 
 ---
 
-### 📌 Proyecto Destacado: Setup SSH + Git  
+### 📌 Proyecto Destacado: Setup SSH + Git
+
 [![Repositorio](https://img.shields.io/badge/GitHub-Setup__SSH__GIT-181717?style=for-the-badge&logo=github)](https://github.com/Edfermachado/Setup_SSH_GIT)
 
-🔐 **Setup_SSH_GIT** es una guía para configurar claves SSH y vincularlas con GitHub.  
-Perfecto para desarrolladores que quieren automatizar su flujo de trabajo.
+🔐 **Setup_SSH_GIT** es una guía práctica para configurar una clave SSH y vincularla con GitHub. Ideal para desarrolladores que trabajan en Windows y desean automatizar su flujo de trabajo con Git.
 
-**Incluye:**  
-- Guía paso a paso  
-- Configuración en Windows  
-- Integración con Git  
+**Características:**
+- Paso a paso para generar y registrar claves SSH
+- Integración rápida con GitHub
 
-📂 Tecnologías: `bash`, `Git`, `SSH`, `CLI`
+📂 Tecnologías relacionadas: `bash`, `Git`, `SSH`, `CLI`
 
----
-
-## ⏱️ Actividad de Programación (Wakatime)
-
-<div align="center">
-
-### 🟣 Tarjeta dinámica
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Edfermachado&theme=radical&layout=compact" height="200"/>
-
-
-### 🟣 Actividad semanal (si compartes el gráfico)
-<figure><embed src="https://wakatime.com/share/@98aa4606-4a53-4448-9946-b7d7a25ef16f/758e3d57-30df-40c3-a12f-bb282914bfa2.svg"></embed></figure>
-
-</div>
+> 👉 Útil para desarrolladores que quieren evitar ingresar contraseñas al hacer push/pull en sus repositorios.
 
 ---
 
@@ -66,4 +50,3 @@ Perfecto para desarrolladores que quieren automatizar su flujo de trabajo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-machado)
 [![Correo](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edfer_code@proton.me)
-

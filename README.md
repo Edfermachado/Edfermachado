@@ -3,21 +3,44 @@
 
 ---
 
-- 🎓 Estudiante de CS, 6to semestre en la Universidad de Carabobo
-- 💡 Ciencia de Datos e IA, Samsung Innovation Campus
-- 💻 Apasionado por C++, Python, Laravel, Kotlin y Flutter
-- 🐧 Entusiasta de Linux (Debian 12)
-- 🚀 Siempre aprendiendo y construyendo cosas geniales
+### 💻 Sobre Mí
+
+* 🎓 **Estudiante de CS**, cursando el 6to semestre en la Universidad de Carabobo.
+* 💡 Fuerte enfoque en **Ciencia de Datos e IA**, formación obtenida en Samsung Innovation Campus.
+* 💻 Apasionado por lenguajes de alto rendimiento como **C++ y Kotlin**, y frameworks como **Python, Laravel y Flutter**.
+* 🐧 **Entusiasta de Linux** (actualmente en Debian 12).
+* 🚀 Siempre aprendiendo y construyendo cosas geniales.
+
+### 📚 Aprendiendo Actualmente
+
+Estoy profundizando mis conocimientos en:
+* **TensorFlow/PyTorch** para modelos de Deep Learning.
+* **Arquitectura Clean Code** en proyectos con Flutter/Kotlin.
+* **Desarrollo de APIs** con Laravel.
 
 ---
 
 ### 🛠️ Lenguajes y Herramientas
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+| Categoría | Herramientas |
+| :--- | :--- |
+| **Lenguajes** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) |
+| **Frameworks/DB** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
+| **Sistemas** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+
+---
+
+### 📈 GitHub Stats
+
+Aquí puedes ver mis estadísticas de actividad general y los lenguajes que más utilizo:
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Edfermachado&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Edwin Machado" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edfermachado&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Top" />
+</p>
+
+### 📊 Mis estadísticas de programación semanal (WakaTime)
 
 ---
 
@@ -28,13 +51,14 @@
 🔐 **Setup_SSH_GIT** es una guía práctica para configurar una clave SSH y vincularla con GitHub. Ideal para desarrolladores que trabajan en Windows y desean automatizar su flujo de trabajo con Git.
 
 **Características:**
-- Paso a paso para generar y registrar claves SSH
-- Integración rápida con GitHub
+* Paso a paso para generar y registrar claves SSH
+* Integración rápida con GitHub
 
 📂 Tecnologías relacionadas: `bash`, `Git`, `SSH`, `CLI`
 
-> 👉 Útil para desarrolladores que quieren evitar ingresar contraseñas al hacer push/pull en sus repositorios.
+> 👉 **Propósito:** Útil para desarrolladores que quieren evitar ingresar contraseñas al hacer push/pull en sus repositorios.
 
+---
 
 ### 📫 Contáctame
 

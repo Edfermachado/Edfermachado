@@ -35,9 +35,7 @@ Estoy profundizando mis conocimientos en:
 Aquí puedes ver mis estadísticas de actividad general y los lenguajes que más utilizo:
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Edfermachado&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Edwin Machado" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edfermachado&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Top" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edfermachado&theme=tokyonight&hide_border=true" alt="Streak de GitHub" />
 </p>
 
 ### 📊 Mis estadísticas de programación semanal (WakaTime)

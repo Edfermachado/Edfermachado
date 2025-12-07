@@ -1,0 +1,39 @@
+name: WakaTime Readme
+
+on:
+  # Ejecuta el workflow automáticamente a la 4:00 AM UTC todos los días.
+  # (Puedes ajustarla a una hora de bajo tráfico en tu zona horaria)
+  schedule:
+    - cron: '0 4 * * *'
+  # Permite ejecutar el workflow manualmente desde la pestaña Actions
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Actualizar WakaTime Stats
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 1. Checkout del repositorio
+      - uses: actions/checkout@v4
+      
+      # 2. Generación y Actualización de WakaTime
+      - uses: athul/waka-readme@v3
+        with:
+          # Es crucial usar una variable de entorno para la API Key
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          
+          # Opciones de Personalización (Opcional, pero recomendado)
+          # Los lenguajes más usados se mostrarán con iconos
+          LANG_COMMIT_TITLE: '📊 Actualización de Stats - Lenguajes más usados'
+          
+          # Estilo de la tarjeta (ajusta si quieres un tema diferente)
+          SHOW_OS: "False"
+          SHOW_TIME_MACHINE: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_TOTAL_CODE_TIME: "True" # Muestra el tiempo total
+          SHOW_LOC_CHART: "False" # No muestra el gráfico de líneas de código
+          
+          # Esto es el título de la sección donde aparecerán las estadísticas
+          COMMIT_BY_ME: "True" 
+          COMMIT_MESSAGE: "🤖 Actualización automática de WakaTime Stats"

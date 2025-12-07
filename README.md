@@ -32,7 +32,7 @@ Estoy profundizando mis conocimientos en:
 
 ### 📈 GitHub Stats
 
-Aquí puedes ver mis estadísticas de actividad general y los lenguajes que más utilizo:
+Aquí puedes ver mis estadísticas de actividad general:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edfermachado&theme=tokyonight&hide_border=true" alt="Streak de GitHub" />
